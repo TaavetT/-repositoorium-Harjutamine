@@ -2,3 +2,8 @@ GitHub on veebipõhine platvorm, mis pakub versioonihaldusteenuseid ja võimalda
 
 
 Ma saan kasutada GitHubbi näiteks kui mul on mingit programmi vaja otsida, mis on githubbi ülesse laetud.
+
+
+GitHub Inc. asutati 2008. aastal. GitHubi asutajateks olid Tom Preston-Werner, Chris Wanstrath ja PJ Hyett. Nad lõid GitHubi, et pakkuda veebipõhist platvormi tarkvaraarenduseks ja versioonihalduseks, mis oleks lihtne ja tõhus. See sai kiiresti populaarseks ja on tänaseks muutunud üheks maailma juhtivaks tarkvaraprojektide haldamise platvormiks.
+
+GitHubi teenus sai kättesaadavaks alates 2008. aastast, mil platvorm käivitati. See sai kiiresti populaarseks ja kasvas suureks tarkvaraprojektide ja arendajate kogukonna jaoks oluliseks ressursiks. Tänaseks on GitHub muutunud keskpunktiks avatud lähtekoodiga projektide, eraettevõtete tarkvaraprojektide ja individuaalsete arendajate jaoks, kes soovivad hallata, jagada ja koostööd teha oma tarkvarakoodiga.
